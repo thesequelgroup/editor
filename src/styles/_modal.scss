@@ -240,3 +240,8 @@
     margin-bottom: 4px;
   }
 }
+
+.maputnik-modal__repos {
+  max-height: 140px;
+  overflow-y: auto;
+}
